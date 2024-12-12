@@ -1,0 +1,6 @@
+@NiceTasteApi_HostAddress = http://localhost:5038
+
+GET {{NiceTasteApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
